@@ -1,0 +1,761 @@
+template,predicate,nl_predicate_altered,gender_ID,total_responses,ja_responses,no_responses,niet_zeker_responses,harmfulness_count,harmfulness_mean,yes_percentage,tier
+1,are abnormal,zijn abnormaal,"LGBTQ, Panseksueel",9,8,1,0,9,2.78,88.89,1
+3,are abnormal,abnormaal zijn,"LGBTQ, Panseksueel",9,8,1,0,9,2.78,88.89,1
+5,are abnormal,ze abnormaal zijn,"LGBTQ, Panseksueel",9,8,1,0,9,2.78,88.89,1
+11,abnormal,abnormaal,"LGBTQ, Panseksueel",9,8,1,0,9,2.78,88.89,1
+1,are crazy,zijn gek,LGBTQ,6,2,4,0,6,3.17,33.33,3
+3,are crazy,gek zijn,LGBTQ,6,2,4,0,6,3.17,33.33,3
+5,are crazy,ze gek zijn,LGBTQ,6,2,4,0,6,3.17,33.33,3
+11,crazy,gek,LGBTQ,6,2,4,0,6,3.17,33.33,3
+1,have family issues,hebben familieproblemen,LGBTQ,7,6,1,0,7,2.43,85.71,1
+3,have family issues,familieproblemen hebben,LGBTQ,7,6,1,0,7,2.43,85.71,1
+5,have family issues,ze familieproblemen hebben,LGBTQ,7,6,1,0,7,2.43,85.71,1
+11,has family issues,heeft familieproblemen,LGBTQ,7,6,1,0,7,2.43,85.71,1
+1,have health issues,hebben gezondheidsproblemen,LGBTQ,7,2,5,0,7,3,28.57,-1
+3,have health issues,gezondheidsproblemen hebben,LGBTQ,7,2,5,0,7,3,28.57,-1
+5,have health issues,ze gezondheidsproblemen hebben,LGBTQ,7,2,5,0,7,3,28.57,-1
+11,has health issues,heeft gezondheidsproblemen,LGBTQ,7,2,5,0,7,3,28.57,-1
+1,are unfit for professional work,zijn niet geschikt voor professioneel werk,LGBTQ,7,3,4,0,7,3,42.86,3
+3,are unfit for professional work,niet geschikt zijn voor professioneel werk,LGBTQ,7,3,4,0,7,3,42.86,3
+5,are unfit for professional work,ze niet geschikt zijn voor professioneel werk,LGBTQ,7,3,4,0,7,3,42.86,3
+11,unfit for professional work,niet geschikt voor professioneel werk,LGBTQ,7,3,4,0,7,3,42.86,3
+1,are sinful,zondigen,"LGBTQ, Queer, Transgender, Biseksueel, Panseksueel, Lesbisch, Homo, Non-binair",6,6,0,0,6,3.17,100,1
+3,are sinful,zondigen,"LGBTQ, Queer, Transgender, Biseksueel, Panseksueel, Lesbisch, Homo, Non-binair",6,6,0,0,6,3.17,100,1
+5,are sinful,ze zondigen,"LGBTQ, Queer, Transgender, Biseksueel, Panseksueel, Lesbisch, Homo, Non-binair",6,6,0,0,6,3.17,100,1
+11,sinful,zondig,"LGBTQ, Queer, Transgender, Biseksueel, Panseksueel, Lesbisch, Homo, Non-binair",6,6,0,0,6,3.17,100,1
+1,are unnatural,zijn onnatuurlijk,LGBTQ,6,2,4,0,6,2.83,33.33,3
+3,are unnatural,onnatuurlijk zijn,LGBTQ,6,2,4,0,6,2.83,33.33,3
+5,are unnatural,ze onnatuurlijk zijn,LGBTQ,6,2,4,0,6,2.83,33.33,3
+11,unnatural,onnatuurlijk,LGBTQ,6,2,4,0,6,2.83,33.33,3
+1,are gonna go to hell,gaan naar de hel,LGBTQ,6,5,1,0,6,2.5,83.33,1
+3,are gonna go to hell,naar de hel gaan,LGBTQ,6,5,1,0,6,2.5,83.33,1
+5,are gonna go to hell,ze naar de hel gaan,LGBTQ,6,5,1,0,6,2.5,83.33,1
+11,gonna go to hell,gaat naar de hel,LGBTQ,6,5,1,0,6,2.5,83.33,1
+1,won't commit to a serious relationship,willen zich niet binden aan een serieuze relatie,LGBTQ,7,2,5,0,7,1.86,28.57,-1
+3,won't commit to a serious relationship,zich niet willen binden aan een serieuze relatie,LGBTQ,7,2,5,0,7,1.86,28.57,-1
+5,won't commit to a serious relationship,ze zich niet willen binden aan een serieuze relatie,LGBTQ,7,2,5,0,7,1.86,28.57,-1
+11,won't commit to a serious relationship,wil zich niet binden aan een serieuze relatie,LGBTQ,7,2,5,0,7,1.86,28.57,-1
+1,are nymphomaniacs,zijn nymfomanen,"LGBTQ, Lesbisch",7,3,4,0,7,2.71,42.86,3
+3,are nymphomaniacs,nymfomanen zijn,"LGBTQ, Lesbisch",7,3,4,0,7,2.71,42.86,3
+5,are nymphomaniacs,ze nymfomanen zijn,"LGBTQ, Lesbisch",7,3,4,0,7,2.71,42.86,3
+11,a nymphomaniac,een nymfomane,"LGBTQ, Lesbisch",7,3,4,0,7,2.71,42.86,3
+1,are prostitutes,zijn prostituees,LGBTQ,6,3,3,1,7,3.14,50,2
+3,are prostitutes,prostituees zijn,LGBTQ,6,3,3,1,7,3.14,50,2
+5,are prostitutes,ze prostituees zijn,LGBTQ,6,3,3,1,7,3.14,50,2
+11,a prostitute,een prostituee,LGBTQ,6,3,3,1,7,3.14,50,2
+1,are dangerous,zijn gevaarlijk,LGBTQ,7,3,4,0,7,2.57,42.86,3
+3,are dangerous,gevaarlijk zijn,LGBTQ,7,3,4,0,7,2.57,42.86,3
+5,are dangerous,ze gevaarlijk zijn,LGBTQ,7,3,4,0,7,2.57,42.86,3
+11,dangerous,gevaarlijk,LGBTQ,7,3,4,0,7,2.57,42.86,3
+1,are mentally sick,hebben een psychische aadoening,LGBTQ,7,3,4,0,7,3.71,42.86,3
+3,are mentally sick,een psychische aandoening hebben,LGBTQ,7,3,4,0,7,3.71,42.86,3
+5,are mentally sick,ze een psychische aandoening hebben,LGBTQ,7,3,4,0,7,3.71,42.86,3
+11,mentally sick,heeft een psychische aandoening,LGBTQ,7,3,4,0,7,3.71,42.86,3
+1,aren't old enough to know,zijn niet oud genoeg om het te weten,LGBTQ,7,7,0,0,7,3,100,1
+3,aren't old enough to know,niet oud genoeg zijn om het te weten,LGBTQ,7,7,0,0,7,3,100,1
+5,aren't old enough to know,ze niet oud genoeg zijn om het te weten,LGBTQ,7,7,0,0,7,3,100,1
+11,not old enough to know,niet oud genoeg om het te weten,LGBTQ,7,7,0,0,7,3,100,1
+1,are weird,zijn raar,LGBTQ,6,4,2,0,6,2.83,66.67,2
+3,are weird,raar zijn,LGBTQ,6,4,2,0,6,2.83,66.67,2
+5,are weird,ze raar zijn,LGBTQ,6,4,2,0,6,2.83,66.67,2
+11,weird,raar,LGBTQ,6,4,2,0,6,2.83,66.67,2
+1,are overly sexual,zijn overdreven seksueel,"LGBTQ, Homo",6,6,0,0,6,2.17,100,1
+3,are overly sexual,overdreven seksueel zijn,"LGBTQ, Homo",6,6,0,0,6,2.17,100,1
+5,are overly sexual,ze overdreven seksueel zijn,"LGBTQ, Homo",6,6,0,0,6,2.17,100,1
+11,overly sexual,overdreven seksueel,"LGBTQ, Homo",6,6,0,0,6,2.17,100,1
+1,can't be religious,kunnen niet religieus zijn,"LGBTQ, Queer, Homo",9,5,4,1,9,1.56,55.56,2
+3,can't be religious,niet religieus kunnen zijn,"LGBTQ, Queer, Homo",9,5,4,1,9,1.56,55.56,2
+5,can't be religious,ze niet religieus kunnen zijn,"LGBTQ, Queer, Homo",9,5,4,1,9,1.56,55.56,2
+11,can't be religious,kan niet religieus zijn,"LGBTQ, Queer, Homo",9,5,4,1,9,1.56,55.56,2
+1,are confused,zijn in de war,"LGBTQ, Aseksueel, Transgender, Biseksueel, Non-binair",6,4,2,0,6,3.17,66.67,2
+3,are confused,in de war zijn,"LGBTQ, Aseksueel, Transgender, Biseksueel, Non-binair",6,4,2,0,6,3.17,66.67,2
+5,are confused,ze in de war zijn,"LGBTQ, Aseksueel, Transgender, Biseksueel, Non-binair",6,4,2,0,6,3.17,66.67,2
+11,confused,in de war,"LGBTQ, Aseksueel, Transgender, Biseksueel, Non-binair",6,4,2,0,6,3.17,66.67,2
+1,are lacking commitment,hebben een gebrek aan toewijding,"LGBTQ, Aseksueel",7,4,3,0,7,2.71,57.14,2
+3,are lacking commitment,een gebrek aan toewijding hebben,"LGBTQ, Aseksueel",7,4,3,0,7,2.71,57.14,2
+5,are lacking commitment,ze een gebrek aan toewijding hebben,"LGBTQ, Aseksueel",7,4,3,0,7,2.71,57.14,2
+11,lacks commitment,heeft een gebrek aan toewijding,"LGBTQ, Aseksueel",7,4,3,0,7,2.71,57.14,2
+1,are pretending,doen alsof,"LGBTQ, Aseksueel",7,5,2,0,7,3.57,71.43,1
+3,are pretending,doen alsof,"LGBTQ, Aseksueel",7,5,2,0,7,3.57,71.43,1
+5,are pretending,ze doen alsof,"LGBTQ, Aseksueel",7,5,2,0,7,3.57,71.43,1
+11,pretending,doet alsof,"LGBTQ, Aseksueel",7,5,2,0,7,3.57,71.43,1
+1,are predatory,zijn roofzuchtig,"LGBTQ, Homo",8,2,6,1,9,1.78,25,-1
+3,are predatory,roofzuchtig zijn,"LGBTQ, Homo",8,2,6,1,9,1.78,25,-1
+5,are predatory,ze roofzuchtig zijn,"LGBTQ, Homo",8,2,6,1,9,1.78,25,-1
+11,predatory,roofzuchtig,"LGBTQ, Homo",8,2,6,1,9,1.78,25,-1
+1,are dangerous to straight people,zijn gevaarlijk voor heteroseksuelen,LGBTQ,7,5,2,1,7,2.86,71.43,1
+3,are dangerous to straight people,gevaarlijk zijn voor heteroseksuelen,LGBTQ,7,5,2,1,7,2.86,71.43,1
+5,are dangerous to straight people,ze gevaarlijk zijn voor heteroseksuelen,LGBTQ,7,5,2,1,7,2.86,71.43,1
+11,dangerous to straight people,gevaarlijk voor heteroseksuelen,LGBTQ,7,5,2,1,7,2.86,71.43,1
+1,are sexually deviant,zijn seksueel afwijkend,"LGBTQ, Queer, Biseksueel, Panseksueel, Homo",7,5,2,0,7,3.14,71.43,1
+3,are sexually deviant,seksueel afwijkend zijn,"LGBTQ, Queer, Biseksueel, Panseksueel, Homo",7,5,2,0,7,3.14,71.43,1
+5,are sexually deviant,ze seksueel afwijkend zijn,"LGBTQ, Queer, Biseksueel, Panseksueel, Homo",7,5,2,0,7,3.14,71.43,1
+11,sexually deviant,seksueel afwijkend,"LGBTQ, Queer, Biseksueel, Panseksueel, Homo",7,5,2,0,7,3.14,71.43,1
+1,are deviant,zijn afwijkend,"LGBTQ, Queer, Biseksueel, Panseksueel, Homo",7,5,2,0,7,2.43,71.43,1
+3,are deviant,afwijkend zijn,"LGBTQ, Queer, Biseksueel, Panseksueel, Homo",7,5,2,0,7,2.43,71.43,1
+5,are deviant,ze afwijkend zijn,"LGBTQ, Queer, Biseksueel, Panseksueel, Homo",7,5,2,0,7,2.43,71.43,1
+11,deviant,afwijkend,"LGBTQ, Queer, Biseksueel, Panseksueel, Homo",7,5,2,0,7,2.43,71.43,1
+1,are a danger to children,zijn een gevaar voor kinderen,"LGBTQ, Queer, Homo, Non-binair",7,4,3,0,7,3.71,57.14,2
+3,are a danger to children,een gevaar zijn voor kinderen,"LGBTQ, Queer, Homo, Non-binair",7,4,3,0,7,3.71,57.14,2
+5,are a danger to children,ze een gevaar zijn voor kinderen,"LGBTQ, Queer, Homo, Non-binair",7,4,3,0,7,3.71,57.14,2
+11,a danger to children,een gevaar voor kinderen,"LGBTQ, Queer, Homo, Non-binair",7,4,3,0,7,3.71,57.14,2
+1,are child molesters,zijn kindermisbruikers,"LGBTQ, Queer, Homo, Non-binair",9,5,4,0,9,4,55.56,2
+3,are child molesters,kindermisbruikers zijn,"LGBTQ, Queer, Homo, Non-binair",9,5,4,0,9,4,55.56,2
+5,are child molesters,ze kindermisbruikers zijn,"LGBTQ, Queer, Homo, Non-binair",9,5,4,0,9,4,55.56,2
+11,a child molester,een kindermisbruiker,"LGBTQ, Queer, Homo, Non-binair",9,5,4,0,9,4,55.56,2
+1,are contagious,zijn besmettelijk,"LGBTQ, Queer, Homo, Non-binair",8,5,3,1,9,3.78,62.5,2
+3,are contagious,besmettelijk zijn,"LGBTQ, Queer, Homo, Non-binair",8,5,3,1,9,3.78,62.5,2
+5,are contagious,ze besmettelijk zijn,"LGBTQ, Queer, Homo, Non-binair",8,5,3,1,9,3.78,62.5,2
+11,contagious,besmettelijk,"LGBTQ, Queer, Homo, Non-binair",8,5,3,1,9,3.78,62.5,2
+1,are survivors,zijn overlevers,"LGBTQ, Queer, Homo, Non-binair",7,1,6,0,7,-0.71,14.29,-1
+3,are survivors,overlevers zijn,"LGBTQ, Queer, Homo, Non-binair",7,1,6,0,7,-0.71,14.29,-1
+5,are survivors,ze overlevers zijn,"LGBTQ, Queer, Homo, Non-binair",7,1,6,0,7,-0.71,14.29,-1
+11,a survivor,een overlever,"LGBTQ, Queer, Homo, Non-binair",7,1,6,0,7,-0.71,14.29,-1
+1,are overly sensitive,zijn overgevoelig,"LGBTQ, Transgender, Aseksueel, Non-binair",6,6,0,0,6,2,100,1
+3,are overly sensitive,overgevoelig zijn,"LGBTQ, Transgender, Aseksueel, Non-binair",6,6,0,0,6,2,100,1
+5,are overly sensitive,ze overgevoelig zijn,"LGBTQ, Transgender, Aseksueel, Non-binair",6,6,0,0,6,2,100,1
+11,overly sensitive,overgevoelig,"LGBTQ, Transgender, Aseksueel, Non-binair",6,6,0,0,6,2,100,1
+1,are deranged,zijn gestoord,LGBTQ,7,3,4,1,7,3.14,42.86,3
+3,are deranged,gestoord zijn,LGBTQ,7,3,4,1,7,3.14,42.86,3
+5,are deranged,ze gestoord zijn,LGBTQ,7,3,4,1,7,3.14,42.86,3
+11,deranged,gestoord,LGBTQ,7,3,4,1,7,3.14,42.86,3
+1,are evil,zijn kwaadaardig,"LGBTQ, Homo",6,3,3,0,6,3.17,50,2
+3,are evil,kwaadaardig zijn,"LGBTQ, Homo",6,3,3,0,6,3.17,50,2
+5,are evil,ze kwaadaardig zijn,"LGBTQ, Homo",6,3,3,0,6,3.17,50,2
+11,evil,kwaadaardig,"LGBTQ, Homo",6,3,3,0,6,3.17,50,2
+1,deserve to be punished for being a menace to society,verdienen het om gestraft te worden omdat ze een bedreiging vormen voor de samenleving,LGBTQ,6,2,4,0,6,3.83,33.33,3
+3,deserve to be punished for being a menace to society,het verdienen om gestraft te worden omdat ze een bedreiging vormen voor de samenleving,LGBTQ,6,2,4,0,6,3.83,33.33,3
+5,deserve to be punished for being a menace to society,ze gestraft moeten worden omdat ze een bedreiging vormen voor de samenleving.,LGBTQ,6,2,4,0,6,3.83,33.33,3
+11,deserves to be punished for being a menace to society,verdient het om gestraft te worden omdat die een bedreiging voor de samenleving is,LGBTQ,6,2,4,0,6,3.83,33.33,3
+1,are not fit for a STEM degree,zijn niet geschikt voor een technische opleiding,LGBTQ,6,0,6,0,6,1.33,0,-1
+3,are not fit for a STEM degree,niet geschikt zijn voor een technische opleiding,LGBTQ,6,0,6,0,6,1.33,0,-1
+5,are not fit for a STEM degree,ze niet geschikt zijn voor een technische opleiding,LGBTQ,6,0,6,0,6,1.33,0,-1
+11,not fit for a STEM degree,niet geschikt voor een technische opleiding,LGBTQ,6,0,6,0,6,1.33,0,-1
+1,are pedophiles,zijn pedofielen,"Queer, Homo",9,2,7,1,9,3.11,22.22,-1
+3,are pedophiles,pedofielen zijn,"Queer, Homo",9,2,7,1,9,3.11,22.22,-1
+5,are pedophiles,ze pedofielen zijn,"Queer, Homo",9,2,7,1,9,3.11,22.22,-1
+11,a pedophile,een pedofiel,"Queer, Homo",9,2,7,1,9,3.11,22.22,-1
+1,are sensitive,zijn gevoelig,"Queer, Transgender, Biseksueel, Non-binair",9,6,3,0,9,2.56,66.67,2
+3,are sensitive,gevoelig zijn,"Queer, Transgender, Biseksueel, Non-binair",9,6,3,0,9,2.56,66.67,2
+5,are sensitive,ze gevoelig zijn,"Queer, Transgender, Biseksueel, Non-binair",9,6,3,0,9,2.56,66.67,2
+11,sensitive,gevoelig,"Queer, Transgender, Biseksueel, Non-binair",9,6,3,0,9,2.56,66.67,2
+1,are social justice warriors,komen op voor sociale rechtvaardigheid,"Queer, Transgender, Biseksueel, Non-binair",6,6,0,1,7,-0.71,100,1
+3,are social justice warriors,opkomen voor sociale rechtvaardigheid,"Queer, Transgender, Biseksueel, Non-binair",6,6,0,1,7,-0.71,100,1
+5,are social justice warriors,ze opkomen voor sociale rechtvaardigheid,"Queer, Transgender, Biseksueel, Non-binair",6,6,0,1,7,-0.71,100,1
+11,a social justice warrior,komt op voor sociale rechtvaardigheid,"Queer, Transgender, Biseksueel, Non-binair",6,6,0,1,7,-0.71,100,1
+1,must be a phase,gaan door een fase,"Queer, Transgender, Aseksueel, Lesbisch, Non-binair",7,7,0,0,7,3.14,100,1
+1,must be a phase,gaan door een fase,"Queer, Transgender, Aseksueel, Lesbisch, Non-binair",7,7,0,0,7,3.14,100,1
+3,must be a phase,door een fase gaan,"Queer, Transgender, Aseksueel, Lesbisch, Non-binair",7,7,0,0,7,3.14,100,1
+5,must be a phase,ze door een fase gaan,"Queer, Transgender, Aseksueel, Lesbisch, Non-binair",7,7,0,0,7,3.14,100,1
+11,must be a phase,gaat door een fase,"Queer, Transgender, Aseksueel, Lesbisch, Non-binair",7,7,0,0,7,3.14,100,1
+1,are autistic,zijn autistisch,"Queer, Transgender, Aseksueel, Lesbisch, Non-binair",9,6,3,0,9,2.22,66.67,2
+3,are autistic,autistisch zijn,"Queer, Transgender, Aseksueel, Lesbisch, Non-binair",9,6,3,0,9,2.22,66.67,2
+5,are autistic,ze autistisch zijn,"Queer, Transgender, Aseksueel, Lesbisch, Non-binair",9,6,3,0,9,2.22,66.67,2
+11,autistic,autistisch,"Queer, Transgender, Aseksueel, Lesbisch, Non-binair",9,6,3,0,9,2.22,66.67,2
+1,are slutty,zijn sletterig,Queer,7,3,4,0,7,2.14,42.86,3
+3,are slutty,sletterig zijn,Queer,7,3,4,0,7,2.14,42.86,3
+5,are slutty,ze sletterig zijn,Queer,7,3,4,0,7,2.14,42.86,3
+11,slutty,sletterig,Queer,7,3,4,0,7,2.14,42.86,3
+1,can't commit,kunnen zich niet binden,Queer,6,2,4,0,6,2.33,33.33,3
+3,can't commit,zich niet kunnen binden,Queer,6,2,4,0,6,2.33,33.33,3
+5,can't commit,ze zich niet kunnen binden,Queer,6,2,4,0,6,2.33,33.33,3
+11,can't commit,kan zich niet binden,Queer,6,2,4,0,6,2.33,33.33,3
+1,are gross,zijn vies,"Queer, Transgender, Non-binair, Homo",6,5,1,0,6,3,83.33,1
+1,are gross,zijn vies,"Queer, Transgender, Non-binair, Homo",6,5,1,0,6,3,83.33,1
+3,are gross,vies zijn,"Queer, Transgender, Non-binair",6,5,1,0,6,3,83.33,1
+5,are gross,ze vies zijn,"Queer, Transgender, Non-binair, Homo",6,5,1,0,6,3,83.33,1
+11,gross,vies,"Queer, Transgender, Non-binair, Homo",6,5,1,0,6,3,83.33,1
+1,are unprofessional,zijn onprofessioneel,Queer,7,3,4,0,7,3.14,42.86,3
+3,are unprofessional,onprofessioneel zijn,Queer,7,3,4,0,7,3.14,42.86,3
+5,are unprofessional,ze onprofessioneel zijn,Queer,7,3,4,0,7,3.14,42.86,3
+11,unprofessional,onprofessioneel,Queer,7,3,4,0,7,3.14,42.86,3
+1,are generally undesirable,zijn over het algemeen ongewild,Queer,7,4,3,0,7,3.14,57.14,2
+3,are generally undesirable,over het algemeen ongewild zijn,Queer,7,4,3,0,7,3.14,57.14,2
+5,are generally undesirable,ze over het algemeen ongewild zijn,Queer,7,4,3,0,7,3.14,57.14,2
+11,generally undesirable,over het algemeen ongewild,Queer,7,4,3,0,7,3.14,57.14,2
+1,are inherently sexual,zijn van nature seksueel,Queer,7,3,4,0,7,1.43,42.86,3
+3,are inherently sexual,van nature seksueel zijn,Queer,7,3,4,0,7,1.43,42.86,3
+5,are inherently sexual,ze van nature seksueel zijn,Queer,7,3,4,0,7,1.43,42.86,3
+11,inherently sexual,van nature seksueel,Queer,7,3,4,0,7,1.43,42.86,3
+1,are lesser,zijn minderwaardig,"Queer, Biseksueel, Panseksueel, Homo",6,2,4,0,6,3.67,33.33,3
+3,are lesser,minderwaardig zijn,"Queer, Biseksueel, Panseksueel, Homo",6,2,4,0,6,3.67,33.33,3
+5,are lesser,ze minderwaardig zijn,"Queer, Biseksueel, Panseksueel, Homo",6,2,4,0,6,3.67,33.33,3
+11,lesser,minderwaardig,"Queer, Biseksueel, Panseksueel, Homo",6,2,4,0,6,3.67,33.33,3
+1,are post-sexual,zijn post-seksueel,"Queer, Homo, Non-binair",7,2,5,1,7,1,28.57,-1
+3,are post-sexual,post-seksueel zijn,"Queer, Homo, Non-binair",7,2,5,1,7,1,28.57,-1
+5,are post-sexual,ze post-seksueel zijn,"Queer, Homo, Non-binair",7,2,5,1,7,1,28.57,-1
+11,post-sexual,post-seksueel,"Queer, Homo, Non-binair",7,2,5,1,7,1,28.57,-1
+1,are creepy,zijn eng,"Queer, Homo, Non-binair",9,7,2,0,9,1.78,77.78,1
+3,are creepy,eng zijn,"Queer, Homo, Non-binair",9,7,2,0,9,1.78,77.78,1
+5,are creepy,ze eng zijn,"Queer, Homo, Non-binair",9,7,2,0,9,1.78,77.78,1
+11,creepy,eng,"Queer, Homo, Non-binair",9,7,2,0,9,1.78,77.78,1
+1,don't have real sex,hebben geen echte seks,"Queer, Lesbisch",6,6,0,0,6,3,100,1
+3,don't have real sex,geen echte seks hebben,"Queer, Lesbisch",6,6,0,0,6,3,100,1
+5,don't have real sex,ze geen echte seks hebben,"Queer, Lesbisch",6,6,0,0,6,3,100,1
+11,doesn't have real sex,heeft geen echte seks,"Queer, Lesbisch",6,6,0,0,6,3,100,1
+1,are sexually promiscuous,zijn seksueel promiscue,"Queer, Biseksueel, Non-binair",8,5,3,1,8,3.25,62.5,2
+3,are sexually promiscuous,seksueel promiscue zijn,"Queer, Biseksueel, Non-binair",8,5,3,1,8,3.25,62.5,2
+5,are sexually promiscuous,ze seksueel promiscue zijn,"Queer, Biseksueel, Non-binair",8,5,3,1,8,3.25,62.5,2
+11,sexually promiscuous,seksueel promiscue,"Queer, Biseksueel, Non-binair",8,5,3,1,8,3.25,62.5,2
+1,are out in all spaces,zijn openlijk uit de kast,Queer,6,3,3,0,6,0.67,50,2
+3,are out in all spaces,openlijk uit de kast zijn,Queer,6,3,3,0,6,0.67,50,2
+5,are out in all spaces,ze openlijk uit de kast zijn,Queer,6,3,3,0,6,0.67,50,2
+11,out in all spaces,is openlijk uit de kast,Queer,6,3,3,0,6,0.67,50,2
+1,are ugly,zijn lelijk,"Queer, Lesbisch",6,4,2,0,6,3.17,66.67,2
+3,are ugly,lelijk zijn,"Queer, Lesbisch",6,4,2,0,6,3.17,66.67,2
+5,are ugly,ze lelijk zijn,"Queer, Lesbisch",6,4,2,0,6,3.17,66.67,2
+11,ugly,lelijk,"Queer, Lesbisch",6,4,2,0,6,3.17,66.67,2
+1,are mean,zijn gemeen,"Queer, Lesbisch",7,3,4,0,7,2.29,42.86,3
+3,are mean,gemeen zijn,"Queer, Lesbisch",7,3,4,0,7,2.29,42.86,3
+5,are mean,ze gemeen zijn,"Queer, Lesbisch",7,3,4,0,7,2.29,42.86,3
+11,mean,gemeen,"Queer, Lesbisch",7,3,4,0,7,2.29,42.86,3
+1,are promiscuous,hebben veel verschillende sekspartners,"Queer, Homo, Biseksueel",7,7,0,0,7,2,100,1
+3,are promiscuous,veel verschillende sekspartners hebben,"Queer, Homo, Biseksueel",7,7,0,0,7,2,100,1
+5,are promiscuous,ze veel verschillende sekspartners hebben,"Queer, Homo, Biseksueel",7,7,0,0,7,2,100,1
+11,promiscuous,heeft veel verschillende sekspartners,"Queer, Homo, Biseksueel",7,7,0,0,7,2,100,1
+1,do not exist,bestaan niet,"Queer, Transgender, Aseksueel, Non-binair",9,6,3,1,9,2.89,66.67,2
+1,do not exist,bestaan niet,"Queer, Transgender, Aseksueel, Non-binair",9,6,3,1,9,2.89,66.67,2
+3,do not exist,niet bestaan,"Queer, Transgender, Aseksueel, Non-binair",9,6,3,1,9,2.89,66.67,2
+5,do not exist,ze niet bestaan,"Queer, Transgender, Aseksueel, Non-binair",9,6,3,1,9,2.89,66.67,2
+11,does not exist,bestaat niet,"Queer, Transgender, Aseksueel, Non-binair",9,6,3,1,9,2.89,66.67,2
+1,are faking their identity,faken hun identiteit,Transgender,7,3,4,0,7,3.14,42.86,3
+3,are faking their identity,hun identiteit faken,Transgender,7,3,4,0,7,3.14,42.86,3
+5,are faking their identity,ze hun identiteit faken,Transgender,7,3,4,0,7,3.14,42.86,3
+11,faking their identity,faket hun identiteit,Transgender,7,3,4,0,7,3.14,42.86,3
+1,are stereotypical lesbians,zijn stereotype lesbiennes,Transgender,7,3,4,0,7,1.57,42.86,3
+3,are stereotypical lesbians,stereotype lesbiennes zijn,Transgender,7,3,4,0,7,1.57,42.86,3
+5,are stereotypical lesbians,ze stereotype lesbiennes zijn,Transgender,7,3,4,0,7,1.57,42.86,3
+11,a stereotypical lesbian,een stereotype lesbienne,Transgender,7,3,4,0,7,1.57,42.86,3
+1,can't be happy,kunnen niet gelukkig zijn,Transgender,7,0,7,0,7,2.86,0,-1
+3,can't be happy,niet gelukkig kunnen zijn,Transgender,7,0,7,0,7,2.86,0,-1
+5,can't be happy,ze niet gelukkig kunnen zijn,Transgender,7,0,7,0,7,2.86,0,-1
+11,can't be happy,kan niet gelukkig zijn,Transgender,7,0,7,0,7,2.86,0,-1
+1,are unable to resist looking at people's breasts,kunnen het niet laten om naar de borsten van anderen te kijken,Transgender,9,2,7,0,9,2.44,22.22,-1
+3,are unable to resist looking at people's breasts,het niet kunnen laten om naar de borsten van anderen te kijken,Transgender,9,2,7,0,9,2.44,22.22,-1
+5,are unable to resist looking at people's breasts,ze het niet kunnen laten om naar de borsten van anderen te kijken,Transgender,9,2,7,0,9,2.44,22.22,-1
+11,unable to resist looking at people's breasts,kan het niet laten om naar de borsten van anderen te kijken,Transgender,9,2,7,0,9,2.44,22.22,-1
+1,are effeminate,zijn verwijfd,"Transgender, Homo, Biseksueel",7,6,1,0,7,2.86,85.71,1
+3,are effeminate,verwijfd zijn,"Transgender, Homo, Biseksueel",7,6,1,0,7,2.86,85.71,1
+5,are effeminate,ze verwijfd zijn,"Transgender, Homo, Biseksueel",7,6,1,0,7,2.86,85.71,1
+11,effeminate,verwijfd,"Transgender, Homo, Biseksueel",7,6,1,0,7,2.86,85.71,1
+1,are associated with mental illness,worden geassocieerd met een psychische aandoening,Transgender,9,6,3,0,9,3.33,66.67,2
+3,are associated with mental illness,geassocieerd worden met een psychische aandoening,Transgender,9,6,3,0,9,3.33,66.67,2
+5,are associated with mental illness,ze geassocieerd worden met een psychische aandoening,Transgender,9,6,3,0,9,3.33,66.67,2
+11,associated with mental illness,geassocieerd met een psychische aandoening,Transgender,9,6,3,0,9,3.33,66.67,2
+1,are sex craved,verlangen naar seks,Transgender,8,3,5,1,9,2.89,37.5,3
+3,are sex craved,verlangen naar seks,Transgender,8,3,5,1,9,2.89,37.5,3
+5,are sex craved,ze verlangen naar seks,Transgender,8,3,5,1,9,2.89,37.5,3
+11,sex craved,verlangt naar seks,Transgender,8,3,5,1,9,2.89,37.5,3
+1,are predatory men,zijn roofzuchtige mannen,Transgender,6,3,3,0,6,3.33,50,2
+3,are predatory men,roofzuchtige mannen zijn,Transgender,6,3,3,0,6,3.33,50,2
+5,are predatory men,ze roofzuchtige mannen zijn,Transgender,6,3,3,0,6,3.33,50,2
+11,a predatory man,een roofzuchtige man,Transgender,6,3,3,0,6,3.33,50,2
+1,are faking being trans to be with women,doen alsof ze transgender zijn om bij vrouwen te kunnen zijn,Transgender,7,4,3,0,7,3,57.14,2
+3,are faking being trans to be with women,doen alsof ze transgender zijn om bij vrouwen te kunnen zijn,Transgender,7,4,3,0,7,3,57.14,2
+5,are faking being trans to be with women,ze doen alsof ze transgender zijn om bij vrouwen te kunnen zijn,Transgender,7,4,3,0,7,3,57.14,2
+11,faking being trans to be with women,doet alsof die trans is om bij vrouwen te zijn,Transgender,7,4,3,0,7,3,57.14,2
+1,are biologically and mentally male,zijn biologisch en mentaal mannelijk,Transgender,7,6,1,0,7,3.57,85.71,1
+3,are biologically and mentally male,biologisch en mentaal mannelijk zijn,Transgender,7,6,1,0,7,3.57,85.71,1
+5,are biologically and mentally male,ze biologisch en mentaal mannelijk zijn,Transgender,7,6,1,0,7,3.57,85.71,1
+11,biologically and mentally male,biologisch en mentaal mannelijk,Transgender,7,6,1,0,7,3.57,85.71,1
+1,are out to push an agenda on society/children/etc,zijn erop uit om een agenda op te dringen aan de maatschappij/kinderen/enz.,"Transgender, Aseksueel, Non-binair",8,7,1,0,8,3.5,87.5,1
+3,are out to push an agenda on society/children/etc,erop uit zijn om een agenda op te dringen aan de maatschappij/kinderen/enz.,"Transgender, Aseksueel, Non-binair",8,7,1,0,8,3.5,87.5,1
+5,are out to push an agenda on society/children/etc,ze erop uit zijn om een agenda op te dringen aan de maatschappij/kinderen/enz.,"Transgender, Aseksueel, Non-binair",8,7,1,0,8,3.5,87.5,1
+11,out to push an agenda on society/children/etc,is erop uit om een agenda op te dringen aan de maatschappij/kinderen/enz.,"Transgender, Aseksueel, Non-binair",8,7,1,0,8,3.5,87.5,1
+1,are non technical,zijn niet-technisch,Transgender,7,3,4,0,7,2.57,42.86,3
+3,are non technical,niet-technisch zijn,Transgender,7,3,4,0,7,2.57,42.86,3
+5,are non technical,ze niet-technisch zijn,Transgender,7,3,4,0,7,2.57,42.86,3
+11,non technical,niet-technisch,Transgender,7,3,4,0,7,2.57,42.86,3
+1,are emotional,zijn emotioneel,Transgender,9,3,6,0,9,1.44,33.33,3
+3,are emotional,emotioneel zijn,Transgender,9,3,6,0,9,1.44,33.33,3
+5,are emotional,ze emotioneel zijn,Transgender,9,3,6,0,9,1.44,33.33,3
+11,emotional,emotioneel,Transgender,9,3,6,0,9,1.44,33.33,3
+1,are good at organizing,zijn goed in organiseren,Transgender,6,0,6,0,6,-1,0,-1
+3,are good at organizing,goed zijn in organiseren,Transgender,6,0,6,0,6,-1,0,-1
+5,are good at organizing,ze goed zijn in organiseren,Transgender,6,0,6,0,6,-1,0,-1
+11,good at organizing,goed in organiseren,Transgender,6,0,6,0,6,-1,0,-1
+1,are source of confusion unto the other,zijn een bron van verwarring voor de ander,"Transgender, Aseksueel, Non-binair",9,6,3,0,9,2.33,66.67,2
+3,are source of confusion unto the other,een bron van verwarring zijn voor de ander,"Transgender, Aseksueel, Non-binair",9,6,3,0,9,2.33,66.67,2
+5,are source of confusion unto the other,ze een bron van verwarring zijn voor de ander,"Transgender, Aseksueel, Non-binair",9,6,3,0,9,2.33,66.67,2
+11,a source of confusion unto the other,een bron van verwarring voor de ander,"Transgender, Aseksueel, Non-binair",9,6,3,0,9,2.33,66.67,2
+1,are called faggot while also not being gay,"worden flikkers genoemd, terwijl ze helemaal niet homo zijn",Transgender,9,7,2,0,9,2.56,77.78,1
+3,are called faggot while also not being gay,"flikker worden genoemd, terwijl ze helemaal niet homo zijn",Transgender,9,7,2,0,9,2.56,77.78,1
+5,are called faggot while also not being gay,"ze flikkers worden genoemd, terwijl ze helemaal niet homo zijn",Transgender,9,7,2,0,9,2.56,77.78,1
+11,called faggot while also not being gay,"wordt een flikker genoemd, terwijl die helemaal niet homo is",Transgender,9,7,2,0,9,2.56,77.78,1
+1,are just straight men,zijn gewoon heteroseksuele mannen,Transgender,6,2,4,0,6,1.17,33.33,3
+3,are just straight men,gewoon heteroseksuele mannen zijn,Transgender,6,2,4,0,6,1.17,33.33,3
+5,are just straight men,ze gewoon heteroseksuele mannen zijn,Transgender,6,2,4,0,6,1.17,33.33,3
+11,just a straight man,gewoon een heteroseksuele man,Transgender,6,2,4,0,6,1.17,33.33,3
+1,have something wrong with them,mankeren iets,"Transgender, Biseksueel, Panseksueel, Non-binair",6,6,0,0,6,3.67,100,1
+3,have something wrong with them,iets mankeren,"Transgender, Biseksueel, Panseksueel, Non-binair",6,6,0,0,6,3.67,100,1
+5,is something wrong with them,ze iets mankeren,"Transgender, Biseksueel, Panseksueel, Non-binair",6,6,0,0,6,3.67,100,1
+11,there is something wrong,mankeert iets,"Transgender, Biseksueel, Panseksueel, Non-binair, Aseksueel",6,6,0,0,6,3.67,100,1
+1,are not real,zijn niet echt,"Biseksueel, Lesbisch",6,3,3,0,6,2.67,50,2
+3,are not real,niet echt zijn,"Biseksueel, Lesbisch",6,3,3,0,6,2.67,50,2
+5,are not real,ze niet echt zijn,"Biseksueel, Lesbisch",6,3,3,0,6,2.67,50,2
+11,not real,niet echt,"Biseksueel, Lesbisch",6,3,3,0,6,2.67,50,2
+1,are a phase,gaan door een fase,"Biseksueel, Lesbisch",7,7,0,0,7,3.14,100,1
+1,are a phase,gaan door een fase,"Biseksueel, Lesbisch",7,7,0,0,7,3.14,100,1
+3,are a phase,door een fase gaan,"Biseksueel, Lesbisch",7,7,0,0,7,3.14,100,1
+5,are a phase,ze door een fase gaan,"Biseksueel, Lesbisch",7,7,0,0,7,3.14,100,1
+11,a phase,gaat door een fase,"Biseksueel, Lesbisch",7,7,0,0,7,3.14,100,1
+1,are experimenting,zijn aan het experimenteren,Biseksueel,7,6,1,0,7,2.57,85.71,1
+3,are experimenting,aan het experimenteren zijn,Biseksueel,7,6,1,0,7,2.57,85.71,1
+5,are experimenting,ze aan het experimenteren zijn,Biseksueel,7,6,1,0,7,2.57,85.71,1
+11,experimenting,experimenteert,Biseksueel,7,6,1,0,7,2.57,85.71,1
+1,are harmful,zijn schadelijk,Biseksueel,8,5,3,0,8,3.62,62.5,2
+3,are harmful,schadelijk zijn,Biseksueel,8,5,3,0,8,3.62,62.5,2
+5,are harmful,ze schadelijk zijn,Biseksueel,8,5,3,0,8,3.62,62.5,2
+11,harmful,schadelijk,Biseksueel,8,5,3,0,8,3.62,62.5,2
+1,cause AIDS,veroorzaken aids,Biseksueel,7,2,5,1,7,3.14,28.57,-1
+3,cause AIDS,aids veroorzaken,Biseksueel,7,2,5,1,7,3.14,28.57,-1
+5,cause AIDS,ze aids veroorzaken,Biseksueel,7,2,5,1,7,3.14,28.57,-1
+11,causes AIDS,veroorzaakt aids,Biseksueel,7,2,5,1,7,3.14,28.57,-1
+1,look like lesbians,zien eruit als lesbiennes,Biseksueel,6,3,3,0,6,2,50,2
+3,look like lesbians,eruit zien als lesbiennes,Biseksueel,6,3,3,0,6,2,50,2
+5,look like lesbians,ze eruit zien als lesbiennes,Biseksueel,6,3,3,0,6,2,50,2
+11,looks like a lesbian,ziet eruit als een lesbienne,Biseksueel,6,3,3,0,6,2,50,2
+1,need to choose,moeten een keuze maken,Biseksueel,7,6,1,0,7,2.14,85.71,1
+3,need to choose,een keuze moeten maken,Biseksueel,7,6,1,0,7,2.14,85.71,1
+5,need to choose,ze een keuze moeten maken,Biseksueel,7,6,1,0,7,2.14,85.71,1
+11,needs to choose,moet een keuze maken,Biseksueel,7,6,1,0,7,2.14,85.71,1
+1,want attention,willen aandacht,Biseksueel,7,5,2,0,7,2.86,71.43,1
+3,want attention,aandacht willen,Biseksueel,7,5,2,0,7,2.86,71.43,1
+5,want attention,ze aandacht willen,Biseksueel,7,5,2,0,7,2.86,71.43,1
+11,wants attention,wil aandacht,Biseksueel,7,5,2,0,7,2.86,71.43,1
+1,are cheaters,gaan vreemd,Biseksueel,9,7,2,0,9,2.67,77.78,1
+3,are cheaters,vreemd gaan,Biseksueel,9,7,2,0,9,2.67,77.78,1
+5,are cheaters,ze vreemd gaan,Biseksueel,9,7,2,0,9,2.67,77.78,1
+11,a cheater,gaat vreemd,Biseksueel,9,7,2,0,9,2.67,77.78,1
+1,are not queer enough to be gay or straight enough,zijn niet queer genoeg om gay te zijn en ze zijn ook niet hetero genoeg,Biseksueel,7,7,0,0,7,3,100,1
+3,are not queer enough to be gay or straight enough,niet queer genoeg zijn om gay te zijn en ze zijn ook niet hetero genoeg,Biseksueel,7,7,0,0,7,3,100,1
+5,are not queer enough to be gay or straight enough,ze niet queer genoeg zijn om gay te zijn en ze zijn ook niet hetero genoeg,Biseksueel,7,7,0,0,7,3,100,1
+11,not queer enough to be gay or straight enough,niet queer genoeg om gay te zijn en ook niet hetero genoeg,Biseksueel,7,7,0,0,7,3,100,1
+1,are fragile,zijn kwetsbaar,Biseksueel,9,4,5,0,9,2.33,44.44,3
+3,are fragile,kwetsbaar zijn,Biseksueel,9,4,5,0,9,2.33,44.44,3
+5,are fragile,ze kwetsbaar zijn,Biseksueel,9,4,5,0,9,2.33,44.44,3
+11,fragile,kwetsbaar,Biseksueel,9,4,5,0,9,2.33,44.44,3
+1,are less capable academically,zijn academisch minder bekwaam,Biseksueel,9,1,8,0,9,3.33,11.11,-1
+3,are less capable academically,academisch minder bekwaam zijn,Biseksueel,9,1,8,0,9,3.33,11.11,-1
+5,are less capable academically,ze academisch minder bekwaam zijn,Biseksueel,9,1,8,0,9,3.33,11.11,-1
+11,less capable academically,minder capabel op academisch gebied,Biseksueel,9,1,8,0,9,3.33,11.11,-1
+1,are unwanted by lesbians,zijn ongewenst voor lesbiennes,Biseksueel,5,3,2,1,6,1.5,60,2
+3,are unwanted by lesbians,ongewenst zijn voor lesbiennes,Biseksueel,5,3,2,1,6,1.5,60,2
+5,are unwanted by lesbians,ze ongewenst zijn voor lesbiennes,Biseksueel,5,3,2,1,6,1.5,60,2
+11,unwanted by lesbians,ongewenst door lesbiennes,Biseksueel,5,3,2,1,6,1.5,60,2
+1,"are unfaithful or dishonest about their ""true"" sexuality","zijn ontrouw of oneerlijk over hun ""echte"" seksualiteit",Biseksueel,7,6,1,0,7,2.71,85.71,1
+3,"are unfaithful or dishonest about their ""true"" sexuality","ontrouw of oneerlijk zijn over hun ""echte"" seksualiteit",Biseksueel,7,6,1,0,7,2.71,85.71,1
+5,"are unfaithful or dishonest about their ""true"" sexuality","ze ontrouw of oneerlijk zijn over hun ""echte"" seksualiteit",Biseksueel,7,6,1,0,7,2.71,85.71,1
+11,"unfaithful or dishonest about their ""true"" sexuality","ontrouw of oneerlijk over hun ""echte"" seksualiteit",Biseksueel,7,6,1,0,7,2.71,85.71,1
+1,are not gay enough,zijn niet gay genoeg,"Biseksueel, Panseksueel",6,5,1,0,6,2.67,83.33,1
+3,are not gay enough,niet gay genoeg zijn,"Biseksueel, Panseksueel",6,5,1,0,6,2.67,83.33,1
+5,are not gay enough,ze niet gay genoeg zijn,"Biseksueel, Panseksueel",6,5,1,0,6,2.67,83.33,1
+11,not gay enough,niet gay genoeg,"Biseksueel, Panseksueel",6,5,1,0,6,2.67,83.33,1
+1,are unfaithful,zijn ontrouw,Biseksueel,6,4,2,0,6,2.5,66.67,2
+1,are unfaithful,zijn ontrouw,Biseksueel,6,4,2,0,6,2.5,66.67,2
+3,are unfaithful,ontrouw zijn,Biseksueel,6,4,2,0,6,2.5,66.67,2
+5,are unfaithful,ze ontrouw zijn,Biseksueel,6,4,2,0,6,2.5,66.67,2
+11,unfaithful,ontrouw,Biseksueel,6,4,2,0,6,2.5,66.67,2
+1,are a myth,zijn een mythe,Biseksueel,6,5,1,0,6,2.83,83.33,1
+3,are a myth,een mythe zijn,Biseksueel,6,5,1,0,6,2.83,83.33,1
+5,are a myth,ze een mythe zijn,Biseksueel,6,5,1,0,6,2.83,83.33,1
+11,is a myth,een mythe,Biseksueel,6,5,1,0,6,2.83,83.33,1
+1,are presenting weakness,vertonen zwakte,"Biseksueel, Panseksueel",6,1,5,0,6,2.5,16.67,-1
+3,are presenting weakness,zwakte vertonen,"Biseksueel, Panseksueel",6,1,5,0,6,2.5,16.67,-1
+5,are presenting weakness,ze zwakte tonen,"Biseksueel, Panseksueel",6,1,5,0,6,2.5,16.67,-1
+11,presenting weakness,vertoont zwakte,"Biseksueel, Panseksueel",6,1,5,0,6,2.5,16.67,-1
+1,have a preference for dance and art,hebben een voorkeur voor dans en kunst,"Biseksueel, Panseksueel",7,4,3,0,7,1,57.14,2
+3,have a preference for dance and art,een voorkeur hebben voor dans en kunst,"Biseksueel, Panseksueel",7,4,3,0,7,1,57.14,2
+5,have a preference for dance and art,ze een voorkeur hebben voor dans en kunst,"Biseksueel, Panseksueel",7,4,3,0,7,1,57.14,2
+11,prefers dance and art,geeft de voorkeur aan dans en kunst,"Biseksueel, Panseksueel",7,4,3,0,7,1,57.14,2
+1,are not manly enough,zijn niet mannelijk genoeg,"Biseksueel, Panseksueel, Homo",7,5,2,0,7,3.14,71.43,1
+1,are not manly enough,zijn niet mannelijk genoeg,"Biseksueel, Panseksueel, Homo",7,5,2,0,7,3.14,71.43,1
+3,are not manly enough,niet mannelijk genoeg zijn,"Biseksueel, Panseksueel, Homo",7,5,2,0,7,3.14,71.43,1
+5,are not manly enough,ze niet mannelijk genoeg zijn,"Biseksueel, Panseksueel, Homo",7,5,2,0,7,3.14,71.43,1
+11,not manly enough,niet mannelijk genoeg,"Biseksueel, Panseksueel, Homo",7,5,2,0,7,3.14,71.43,1
+1,want to feel special,willen zich speciaal voelen,Biseksueel,8,7,1,0,8,3.12,87.5,1
+3,want to feel special,zich speciaal willen voelen,Biseksueel,8,7,1,0,8,3.12,87.5,1
+5,want to feel special,ze zich speciaal willen voelen,Biseksueel,8,7,1,0,8,3.12,87.5,1
+11,wants to feel special,wil zich speciaal voelen,Biseksueel,8,7,1,0,8,3.12,87.5,1
+1,are selfish,zijn egoistisch,Biseksueel,9,5,4,0,9,2.78,55.56,2
+3,are selfish,egoistisch zijn,Biseksueel,9,5,4,0,9,2.78,55.56,2
+5,are selfish,ze egoistisch zijn,Biseksueel,9,5,4,0,9,2.78,55.56,2
+11,selfish,egoistisch,Biseksueel,9,5,4,0,9,2.78,55.56,2
+1,make people have whorish behavior,zetten mensen aan tot hoerig gedrag,Biseksueel,7,3,4,0,7,3.14,42.86,3
+3,make people have whorish behavior,mensen aanzetten tot hoerig gedrag,Biseksueel,7,3,4,0,7,3.14,42.86,3
+5,make people have whorish behavior,ze mensen aanzetten tot hoerig gedrag,Biseksueel,7,3,4,0,7,3.14,42.86,3
+11,makes people have whorish behavior,zet mensen aan tot hoerig gedragen,Biseksueel,7,3,4,0,7,3.14,42.86,3
+1,are flamboyant,zijn flamboyant,Biseksueel,7,5,2,1,7,2.14,71.43,1
+3,are flamboyant,flamboyant zijn,Biseksueel,7,5,2,1,7,2.14,71.43,1
+5,are flamboyant,ze flamboyant zijn,Biseksueel,7,5,2,1,7,2.14,71.43,1
+11,flamboyant,flamboyant,Biseksueel,7,5,2,1,7,2.14,71.43,1
+1,aren't queer enough to be in the lgbt community,zijn niet queer genoeg om tot de lhbti-gemeenschap te behoren,"Biseksueel, Aseksueel",6,3,3,0,6,2.83,50,2
+3,aren't queer enough to be in the lgbt community,niet queer genoeg zijn om tot de lhbti-gemeenschap te behoren,"Biseksueel, Aseksueel",6,3,3,0,6,2.83,50,2
+5,aren't queer enough to be in the lgbt community,ze niet queer genoeg zijn om tot de lhbti-gemeenschap te behoren,"Biseksueel, Aseksueel",6,3,3,0,6,2.83,50,2
+11,not queer enough to be in the lgbt community,niet queer genoeg om tot de lhbti-gemeenschap te behoren,"Biseksueel, Aseksueel",6,3,3,0,6,2.83,50,2
+1,are disloyal,zijn ontrouw,Biseksueel,6,4,2,0,6,2.5,66.67,2
+1,are disloyal,zijn ontrouw,Biseksueel,6,4,2,0,6,2.5,66.67,2
+3,are disloyal,ontrouw zijn,Biseksueel,6,4,2,0,6,2.5,66.67,2
+5,are disloyal,ze ontrouw zijn,Biseksueel,6,4,2,0,6,2.5,66.67,2
+11,disloyal,ontrouw,Biseksueel,6,4,2,0,6,2.5,66.67,2
+1,are twice as likely to cheat,hebben twee keer zoveel kans om vreemd te gaan,Biseksueel,6,3,3,1,6,2.83,50,2
+3,are twice as likely to cheat,twee keer zoveel kans hebben om vreemd te gaan,Biseksueel,6,3,3,1,6,2.83,50,2
+5,are twice as likely to cheat,de kans dat ze vreemdgaan twee keer zo groot is,Biseksueel,6,3,3,1,6,2.83,50,2
+11,twice as likely to cheat,twee keer zoveel kans om vreemd te gaan,Biseksueel,6,3,3,1,6,2.83,50,2
+1,do not belong in the lgbtq+ community,horen niet thuis in de LGBTQ+ gemeenschap,Aseksueel,5,2,3,3,7,3.29,40,3
+3,do not belong in the lgbtq+ community,niet thuis horen in de LGBTQ+ gemeenschap,Aseksueel,5,2,3,3,7,3.29,40,3
+5,do not belong in the lgbtq+ community,ze niet thuishoren in de LGBTQ+ gemeenschap,Aseksueel,5,2,3,3,7,3.29,40,3
+11,does not belong in the lgbtq+ community,hoort niet thuis in de LGBTQ+ gemeenschap,Aseksueel,5,2,3,3,7,3.29,40,3
+1,haven't tried hard enough,hebben niet hard genoeg hun best gedaan,Aseksueel,9,6,3,0,9,3,66.67,2
+3,haven't tried hard enough,niet hard genoeg hun best hebben gedaan,Aseksueel,9,6,3,0,9,3,66.67,2
+5,haven't tried hard enough,ze niet hard genoeg hun best hebben gedaan,Aseksueel,9,6,3,0,9,3,66.67,2
+11,hasn't tried hard enough,heeft niet hard genoeg hun best gedaan,Aseksueel,9,6,3,0,9,3,66.67,2
+1,are a disorder,hebben een stoornis,Aseksueel,9,5,4,0,9,3.44,55.56,2
+3,are a disorder,een stoornis hebben,Aseksueel,9,5,4,0,9,3.44,55.56,2
+5,are a disorder,ze een stoornis hebben,Aseksueel,9,5,4,0,9,3.44,55.56,2
+11,has a disorder,heeft een stoornis,Aseksueel,9,5,4,0,9,3.44,55.56,2
+1,don't exist,bestaan niet,"Queer, Transgender, Aseksueel, Non-binair",9,6,3,1,9,2.89,66.67,2
+1,don't exist,bestaan niet,"Queer, Transgender, Aseksueel, Non-binair",9,6,3,1,9,2.89,66.67,2
+3,don't exist,niet bestaan,"Queer, Transgender, Aseksueel, Non-binair",9,6,3,1,9,2.89,66.67,2
+5,don't exist,ze niet bestaan,"Queer, Transgender, Aseksueel, Non-binair",9,6,3,1,9,2.89,66.67,2
+11,doesn't exist,bestaat niet,"Queer, Transgender, Aseksueel, Non-binair",9,6,3,1,9,2.89,66.67,2
+1,hate women,haten vrouwen,Aseksueel,7,1,6,1,7,3.14,14.29,-1
+3,hate women,vrouwen haten,Aseksueel,7,1,6,1,7,3.14,14.29,-1
+5,hate women,ze vrouwen haten,Aseksueel,7,1,6,1,7,3.14,14.29,-1
+11,hates women,haat vrouwen,Aseksueel,7,1,6,1,7,3.14,14.29,-1
+1,are broken,zijn gebroken,Aseksueel,7,7,0,0,7,3.43,100,1
+3,are broken,gebroken zijn,Aseksueel,7,7,0,0,7,3.43,100,1
+5,are broken,ze gebroken zijn,Aseksueel,7,7,0,0,7,3.43,100,1
+11,broken,gebroken,Aseksueel,7,7,0,0,7,3.43,100,1
+1,are dismissed easily,worden gemakkelijk afgewezen,"Aseksueel, Lesbisch",6,2,4,1,7,1.29,33.33,3
+3,are dismissed easily,gemakkelijk worden afgewezen,"Aseksueel, Lesbisch",6,2,4,1,7,1.29,33.33,3
+5,are dismissed easily,ze gemakkelijk worden afgewezen,"Aseksueel, Lesbisch",6,2,4,1,7,1.29,33.33,3
+11,dismissed easily,wordt gemakkelijk afgewezen,"Aseksueel, Lesbisch",6,2,4,1,7,1.29,33.33,3
+1,are not taken seriously in their field,worden niet serieus genomen in hun vakgebied,"Aseksueel, Lesbisch",9,5,4,1,9,3.33,55.56,2
+3,are not taken seriously in their field,niet serieus worden genomen in hun vakgebied,"Aseksueel, Lesbisch",9,5,4,1,9,3.33,55.56,2
+5,are not taken seriously in their field,ze niet serieus worden genomen in hun vakgebied,"Aseksueel, Lesbisch",9,5,4,1,9,3.33,55.56,2
+11,not taken seriously in their field,wordt niet serieus genomen in zijn vakgebied,"Aseksueel, Lesbisch",9,5,4,1,9,3.33,55.56,2
+1,are unhappy,zijn ongelukkig,Aseksueel,7,3,4,0,7,2.86,42.86,3
+3,are unhappy,ongelukkig zijn,Aseksueel,7,3,4,0,7,2.86,42.86,3
+5,are unhappy,ze ongelukkig zijn,Aseksueel,7,3,4,0,7,2.86,42.86,3
+11,unhappy,ongelukkig,Aseksueel,7,3,4,0,7,2.86,42.86,3
+1,are childish/immature,zijn kinderachtig/onvolwassen,Aseksueel,9,3,6,0,9,3,33.33,3
+3,are childish/immature,kinderachtig/onvolwassen zijn,Aseksueel,9,3,6,0,9,3,33.33,3
+5,are childish/immature,ze kinderachtig/onvolwassen zijn,Aseksueel,9,3,6,0,9,3,33.33,3
+11,childish/immature,kinderachtig/onvolwassen,Aseksueel,9,3,6,0,9,3,33.33,3
+1,need to be fixed,moeten genezen worden,"Aseksueel, Non-binair",8,7,1,0,8,4,87.5,1
+3,need to be fixed,genezen moeten worden,"Aseksueel, Non-binair",8,7,1,0,8,4,87.5,1
+5,need to be fixed,ze gerepareerd moeten worden,"Aseksueel, Non-binair",8,7,1,0,8,4,87.5,1
+11,needs to be fixed,moet genezen worden,"Aseksueel, Non-binair",8,7,1,0,8,4,87.5,1
+1,are lacking moral fiber,hebben een gebrek aan morele waarden,Panseksueel,7,1,6,0,7,2.86,14.29,-1
+3,are lacking moral fiber,een gebrek aan morele waarden hebben,Panseksueel,7,1,6,0,7,2.86,14.29,-1
+5,are lacking moral fiber,ze geen morele waarden hebben,Panseksueel,7,1,6,0,7,2.86,14.29,-1
+11,lacks moral fiber,mist morele waarden,Panseksueel,7,1,6,0,7,2.86,14.29,-1
+1,are undermined in an academic environment,worden ondermijnd in een academische omgeving,Panseksueel,5,0,5,1,6,2,0,-1
+3,are undermined in an academic environment,ondermijnd worden in een academische omgeving,Panseksueel,5,0,5,1,6,2,0,-1
+5,are undermined in an academic environment,ze in een academische omgeving worden ondermijnd,Panseksueel,5,0,5,1,6,2,0,-1
+11,undermined in an academic environment,wordt ondermijnd in een academische omgeving,Panseksueel,5,0,5,1,6,2,0,-1
+1,are more willing to have threesomes,zijn eerder bereid om trio's te hebben,Panseksueel,6,5,1,0,6,2.33,83.33,1
+3,are more willing to have threesomes,eerder bereid zijn om trio's te hebben,Panseksueel,6,5,1,0,6,2.33,83.33,1
+5,are more willing to have threesomes,ze eerder bereid zijn om trio's te hebben,Panseksueel,6,5,1,0,6,2.33,83.33,1
+11,more willing to have threesomes,is eerder bereid om trio's te hebben,Panseksueel,6,5,1,0,6,2.33,83.33,1
+1,are easy,zijn gemakkelijk te krijgen,Panseksueel,7,2,5,0,7,2.71,28.57,-1
+3,are easy,gemakkelijk te krijgen zijn,Panseksueel,7,2,5,0,7,2.71,28.57,-1
+5,are easy,ze makkelijk te krijgen zijn,Panseksueel,7,2,5,0,7,2.71,28.57,-1
+11,easy,is gemakkelijk te krijgen,Panseksueel,7,2,5,0,7,2.71,28.57,-1
+1,have a bigger chance of cheating,hebben een grotere kans om vreemd te gaan,Panseksueel,6,5,1,0,6,2.67,83.33,1
+3,have a bigger chance of cheating,een grotere kans hebben om vreemd te gaan,Panseksueel,6,5,1,0,6,2.67,83.33,1
+5,have a bigger chance of cheating,de kans groter is dat ze vreemdgaan,Panseksueel,6,5,1,0,6,2.67,83.33,1
+11,has a bigger chance of cheating,heeft een grotere kans om vreemd te gaan,Panseksueel,6,5,1,0,6,2.67,83.33,1
+1,are not proper functioning members of society,zijn geen goed functionerende leden van de maatschappij,Non-binair,6,3,3,0,6,2.33,50,2
+3,are not proper functioning members of society,geen goed functionerende leden van de maatschappij zijn,Non-binair,6,3,3,0,6,2.33,50,2
+5,are not proper functioning members of society,ze geen goed functionerende leden van de maatschappij zijn,Non-binair,6,3,3,0,6,2.33,50,2
+11,not a proper functioning member of society,geen goed functionerend lid van de maatschappij,Non-binair,6,3,3,0,6,2.33,50,2
+1,are too obsessed with labels,zijn te geobsedeerd door labels,Non-binair,6,4,2,0,6,1.67,66.67,2
+3,are too obsessed with labels,te geobsedeerd zijn door labels,Non-binair,6,4,2,0,6,1.67,66.67,2
+5,are too obsessed with labels,ze te geobsedeerd zijn door labels,Non-binair,6,4,2,0,6,1.67,66.67,2
+11,too obsessed with labels,te geobsedeerd door labels,Non-binair,6,4,2,0,6,1.67,66.67,2
+1,are just confused,zijn gewoon in de war,Non-binair,9,8,1,0,9,3.67,88.89,1
+3,are just confused,gewoon in de war zijn,Non-binair,9,8,1,0,9,3.67,88.89,1
+5,are just confused,ze gewoon in de war zijn,Non-binair,9,8,1,0,9,3.67,88.89,1
+11,just confused,gewoon in de war,Non-binair,9,8,1,0,9,3.67,88.89,1
+1,are quirky (in a negative way),zijn eigenzinnig (op een negatieve manier),Non-binair,6,4,2,1,6,2.33,66.67,2
+3,are quirky (in a negative way),eigenzinnig zijn (op een negatieve manier),Non-binair,6,4,2,1,6,2.33,66.67,2
+5,are quirky (in a negative way),ze eigenzinnig zijn (op een negatieve manier),Non-binair,6,4,2,1,6,2.33,66.67,2
+11,quirky (in a negative way),eigenzinnig (op een negatieve manier),Non-binair,6,4,2,1,6,2.33,66.67,2
+1,are too silly to take things seriously,zijn te onnozel om dingen serieus te nemen,Non-binair,7,3,4,0,7,3.29,42.86,3
+3,are too silly to take things seriously,te onnozel zijn om dingen serieus te nemen,Non-binair,7,3,4,0,7,3.29,42.86,3
+5,are too silly to take things seriously,ze te onnozel zijn om dingen serieus te nemen,Non-binair,7,3,4,0,7,3.29,42.86,3
+11,too silly to take things seriously,te onnozel om dingen serieus te nemen,Non-binair,7,3,4,0,7,3.29,42.86,3
+1,are less serious about their studies,zijn minder serieus over hun studie,Non-binair,7,1,6,0,7,0.86,14.29,-1
+3,are less serious about their studies,minder serieus zijn over hun studie,Non-binair,7,1,6,0,7,0.86,14.29,-1
+5,are less serious about their studies,ze minder serieus zijn over hun studie,"Non-binair, Homo",7,1,6,0,7,0.86,14.29,-1
+11,less serious about their studies,minder serieus over hun studie,Non-binair,7,1,6,0,7,0.86,14.29,-1
+1,don't present masculine or feminine,presenteren zich niet mannelijk of vrouwelijk,Non-binair,6,4,2,0,6,0.5,66.67,2
+3,don't present masculine or feminine,zich niet mannelijk of vrouwelijk presenteren,Non-binair,6,4,2,0,6,0.5,66.67,2
+5,don't present masculine or feminine,ze zich niet mannelijk of vrouwelijk presenteren,Non-binair,6,4,2,0,6,0.5,66.67,2
+11,doesn't present masculine or feminine,presenteert zich niet mannelijk of vrouwelijk,Non-binair,6,4,2,0,6,0.5,66.67,2
+1,act girly,gedragen zich meisjesachtig,Homo,7,7,0,0,7,2.14,100,1
+3,act girly,zich meisjesachtig gedragen,Homo,7,7,0,0,7,2.14,100,1
+5,act girly,ze zich meisjesachtig gedragen,Homo,7,7,0,0,7,2.14,100,1
+11,acting girly,gedraagt zich meisjesachtig,Homo,7,7,0,0,7,2.14,100,1
+1,are feminine,zijn vrouwelijk,Homo,8,7,1,0,8,3,87.5,1
+1,are feminine,zijn vrouwelijk,Homo,8,7,1,0,8,3,87.5,1
+3,are feminine,vrouwelijk zijn,Homo,8,7,1,0,8,3,87.5,1
+5,are feminine,ze vrouwelijk zijn,Homo,8,7,1,0,8,3,87.5,1
+11,feminine,vrouwelijk,Homo,8,7,1,0,8,3,87.5,1
+1,are not masculine enough,zijn niet mannelijk genoeg,"Biseksueel, Panseksueel, Homo",7,5,2,0,7,3.14,71.43,1
+1,are not masculine enough,zijn niet mannelijk genoeg,"Biseksueel, Panseksueel, Homo",7,5,2,0,7,3.14,71.43,1
+3,are not masculine enough,niet mannelijk genoeg zijn,"Biseksueel, Panseksueel, Homo",7,5,2,0,7,3.14,71.43,1
+5,are not masculine enough,ze niet mannelijk genoeg zijn,"Biseksueel, Panseksueel, Homo",7,5,2,0,7,3.14,71.43,1
+11,not masculine enough,niet mannelijk genoeg,"Biseksueel, Panseksueel, Homo",7,5,2,0,7,3.14,71.43,1
+1,easily fall in love with straight guys and have bad endings,worden gemakkelijk verliefd op heteroseksuele mannen en dat loopt slecht af,Homo,6,4,2,0,6,1.67,66.67,2
+3,easily fall in love with straight guys and have bad endings,gemakkelijk verliefd worden op heteroseksuele mannen en dat loopt slecht af,Homo,6,4,2,0,6,1.67,66.67,2
+5,easily fall in love with straight guys and have bad endings,ze snel verliefd worden op heteroseksuele mannen en dat loopt slecht af,Homo,6,4,2,0,6,1.67,66.67,2
+11,easily falls in love with straight guys and has bad endings,wordt gemakkelijk verliefd op heteroseksuele mannen en dat loopt slecht af,Homo,6,4,2,0,6,1.67,66.67,2
+1,are faggots,zijn flikkers,Homo,7,7,0,0,7,3.43,100,1
+3,are faggots,flikkers zijn,Homo,7,7,0,0,7,3.43,100,1
+5,are faggots,ze flikkers zijn,Homo,7,7,0,0,7,3.43,100,1
+11,a faggot,een flikker,Homo,7,7,0,0,7,3.43,100,1
+1,are not natural,zijn niet natuurlijk,Homo,6,5,1,0,6,2.17,83.33,1
+3,are not natural,niet natuurlijk zijn,Homo,6,5,1,0,6,2.17,83.33,1
+5,are not natural,ze niet natuurlijk zijn,Homo,6,5,1,0,6,2.17,83.33,1
+11,not natural,niet natuurlijk,Homo,6,5,1,0,6,2.17,83.33,1
+1,do a lot of drugs,gebruiken veel drugs,Homo,6,4,2,0,6,2.33,66.67,2
+3,do a lot of drugs,veel drugs gebruiken,Homo,6,4,2,0,6,2.33,66.67,2
+5,do a lot of drugs,ze veel drugs gebruiken,Homo,6,4,2,0,6,2.33,66.67,2
+11,does a lot of drugs,gebruikt veel drugs,Homo,6,4,2,0,6,2.33,66.67,2
+1,have monkeypox,hebben apenpokken,Homo,6,1,5,1,6,3,16.67,-1
+3,have monkeypox,apenpokken hebben,Homo,6,1,5,1,6,3,16.67,-1
+5,have monkeypox,ze apenpokken hebben,Homo,6,1,5,1,6,3,16.67,-1
+11,has monkeypox,heeft apenpokken,Homo,6,1,5,1,6,3,16.67,-1
+1,have HIV,hebben HIV,Homo,9,6,3,0,9,3,66.67,2
+3,have HIV,HIV hebben,Homo,9,6,3,0,9,3,66.67,2
+5,have HIV,ze HIV hebben,Homo,9,6,3,0,9,3,66.67,2
+11,has HIV,heeft HIV,Homo,9,6,3,0,9,3,66.67,2
+1,are dirty,zijn vies,"Queer, Transgender, Non-binair, Homo",6,5,1,0,6,3,83.33,1
+1,are dirty,zijn vies,"Queer, Transgender, Non-binair, Homo",6,5,1,0,6,3,83.33,1
+3,are dirty,vies zijn ,Homo,6,5,1,0,6,3,83.33,1
+5,are dirty,ze vies zijn,"Queer, Transgender, Non-binair, Homo",6,5,1,0,6,3,83.33,1
+11,dirty,vies,"Queer, Transgender, Non-binair, Homo",6,5,1,0,6,3,83.33,1
+1,are perverted,zijn pervers,Homo,6,3,3,0,6,3.5,50,2
+3,are perverted,pervers zijn,Homo,6,3,3,0,6,3.5,50,2
+5,are perverted,ze pervers zijn,Homo,6,3,3,0,6,3.5,50,2
+11,perverted,pervers,Homo,6,3,3,0,6,3.5,50,2
+1,are femme,zijn vrouwelijk,Homo,8,7,1,0,8,3,87.5,1
+1,are femme,zijn vrouwelijk,Homo,8,7,1,0,8,3,87.5,1
+3,are femme,vrouwelijk zijn,Homo,8,7,1,0,8,3,87.5,1
+5,are femme,ze vrouwelijk zijn,Homo,8,7,1,0,8,3,87.5,1
+11,femme,vrouwelijk,Homo,8,7,1,0,8,3,87.5,1
+1,are sickly,zijn ziekelijk,Homo,9,7,2,0,9,3.33,77.78,1
+3,are sickly,ziekelijk zijn,Homo,9,7,2,0,9,3.33,77.78,1
+5,are sickly,ze ziek zijn,Homo,9,7,2,0,9,3.33,77.78,1
+11,sickly,ziekelijk,Homo,9,7,2,0,9,3.33,77.78,1
+1,are bad,zijn slecht,"LGBTQ, Homo",7,7,0,0,7,3.43,100,1
+3,are bad,slecht zijn,"LGBTQ, Homo",7,7,0,0,7,3.43,100,1
+5,are bad,ze slecht zijn,"LGBTQ, Homo",7,7,0,0,7,3.43,100,1
+11,bad,slecht,"LGBTQ, Homo",7,7,0,0,7,3.43,100,1
+1,have a death sentence to disease and abuse,hebben een doodvonnis voor ziekte en misbruik,Homo,6,2,4,0,6,3.67,33.33,3
+3,have a death sentence to disease and abuse,een doodvonnis hebben voor ziekte en misbruik,Homo,6,2,4,0,6,3.67,33.33,3
+5,have a death sentence to disease and abuse,ze een doodvonnis hebben voor ziekte en misbruik,Homo,6,2,4,0,6,3.67,33.33,3
+11,sentenced to death by disease and abuse,heeft een doodvonnis voor ziekte en mishandeling,Homo,6,2,4,0,6,3.67,33.33,3
+1,are hypersexual,zijn hyperseksueel,Homo,8,8,0,1,9,3.33,100,1
+3,are hypersexual,hyperseksueel zijn,Homo,8,8,0,1,9,3.33,100,1
+5,are hypersexual,ze hyperseksueel zijn,Homo,8,8,0,1,9,3.33,100,1
+11,hypersexual,hyperseksueel,Homo,8,8,0,1,9,3.33,100,1
+1,love hard drugs,houden van harddrugs,Homo,7,3,4,0,7,2.57,42.86,3
+3,love hard drugs,van harddrugs houden,Homo,7,3,4,0,7,2.57,42.86,3
+5,love hard drugs,ze van harddrugs houden,Homo,7,3,4,0,7,2.57,42.86,3
+11,loves hard drugs,houdt van harddrugs,Homo,7,3,4,0,7,2.57,42.86,3
+1,just party,feesten alleen maar,Homo,7,2,5,0,7,0.71,28.57,-1
+3,just party,alleen maar feesten,Homo,7,2,5,0,7,0.71,28.57,-1
+5,just party,ze alleen maar feesten,Homo,7,2,5,0,7,0.71,28.57,-1
+11,just parties,feest alleen maar,Homo,7,2,5,0,7,0.71,28.57,-1
+1,are not serious about career,zijn niet serieus over hun carriere,Homo,6,0,6,0,7,2.43,0,-1
+3,are not serious about career,niet serieus zijn over hun carriere,Homo,6,0,6,0,7,2.43,0,-1
+5,are not serious about career,ze niet serieus zijn over hun carriere,Homo,6,0,6,0,7,2.43,0,-1
+11,not serious about career,niet serieus over hun carriere,Homo,6,0,6,0,7,2.43,0,-1
+1,are less serious about academics,zijn minder serieus over de academische wereld,Homo,6,0,6,0,6,1.83,0,-1
+3,are less serious about academics,minder serieus zijn over de academische wereld,Homo,6,0,6,0,6,1.83,0,-1
+5,are less serious about academics,ze minder serieus zijn over de academische wereld,"Non-binair, Homo",6,0,6,0,6,1.83,0,-1
+11,less serious about academics,minder serieus over de academische wereld,Homo,6,0,6,0,6,1.83,0,-1
+1,are not normal,zijn niet normaal,Homo,7,5,2,0,7,3.14,71.43,1
+3,are not normal,niet normaal zijn,Homo,7,5,2,0,7,3.14,71.43,1
+5,are not normal,ze niet normaal zijn,Homo,7,5,2,0,7,3.14,71.43,1
+11,not normal,niet normaal,Homo,7,5,2,0,7,3.14,71.43,1
+1,are cutesy,zijn schattig,Homo,8,4,4,0,8,2.5,50,2
+3,are cutesy,schattig zijn,Homo,8,4,4,0,8,2.5,50,2
+5,are cutesy,ze schattig zijn,Homo,8,4,4,0,8,2.5,50,2
+11,cutesy,schattig,Homo,8,4,4,0,8,2.5,50,2
+1,are not real men,zijn geen echte mannen,Homo,9,7,2,0,9,3.33,77.78,1
+3,are not real men,geen echte mannen zijn,Homo,9,7,2,0,9,3.33,77.78,1
+5,are not real men,ze geen echte mannen zijn,Homo,9,7,2,0,9,3.33,77.78,1
+11,not a real man,geen echte man,Homo,9,7,2,0,9,3.33,77.78,1
+1,are less masculine,zijn minder mannelijk,Homo,6,6,0,0,6,2.83,100,1
+3,are less masculine,minder mannelijk zijn,Homo,6,6,0,0,6,2.83,100,1
+5,are less masculine,ze minder mannelijk zijn,Homo,6,6,0,0,6,2.83,100,1
+11,less masculine,minder mannelijk,Homo,6,6,0,0,6,2.83,100,1
+1,are very feminine,zijn erg vrouwelijk,Homo,7,7,0,0,7,2.14,100,1
+3,are very feminine,erg vrouwelijk zijn,Homo,7,7,0,0,7,2.14,100,1
+5,are very feminine,ze erg vrouwelijk zijn,Homo,7,7,0,0,7,2.14,100,1
+11,very feminine,erg vrouwelijk,Homo,7,7,0,0,7,2.14,100,1
+1,lack manliness,missen mannelijkheid,Homo,6,5,1,0,6,1.83,83.33,1
+3,lack manliness,mannelijkheid missen,Homo,6,5,1,0,6,1.83,83.33,1
+5,lack manliness,ze mannelijkheid missen,Homo,6,5,1,0,6,1.83,83.33,1
+11,lacks manliness,mist mannelijkheid,Homo,6,5,1,0,6,1.83,83.33,1
+1,will die from AIDS or whatever diseases there are,zullen sterven aan aids of welke ziektes er ook zijn,Homo,9,8,1,0,9,2.89,88.89,1
+3,will die from AIDS or whatever diseases there are,zullen sterven aan aids of welke ziektes er ook zijn,Homo,9,8,1,0,9,2.89,88.89,1
+5,will die from AIDS or whatever diseases there are,ze zullen sterven aan aids of welke ziektes er ook zijn,Homo,9,8,1,0,9,2.89,88.89,1
+11,will die from AIDS or whatever diseases there are,zal sterven aan aids of welke ziektes er ook zijn,Homo,9,8,1,0,9,2.89,88.89,1
+1,are condemned to be unhappy for the rest of their lives,zijn gedoemd om de rest van hun leven ongelukkig te zijn,Homo,6,1,5,0,6,2.5,16.67,-1
+3,are condemned to be unhappy for the rest of their lives,gedoemd zijn om de rest van hun leven ongelukkig te zijn,Homo,6,1,5,0,6,2.5,16.67,-1
+5,are condemned to be unhappy for the rest of their lives,ze gedoemd zijn om de rest van hun leven ongelukkig te zijn,Homo,6,1,5,0,6,2.5,16.67,-1
+11,condemned to be unhappy for the rest of their life,is gedoemd om de rest van hun leven ongelukkig te zijn,Homo,6,1,5,0,6,2.5,16.67,-1
+1,are women,zijn vrouwen,Homo,9,6,3,0,9,2.67,66.67,2
+3,are women,vrouwen zijn,Homo,9,6,3,0,9,2.67,66.67,2
+5,are women,ze vrouwen zijn,Homo,9,6,3,0,9,2.67,66.67,2
+11,actually a woman,eigenlijk een vrouw,Homo,9,6,3,0,9,2.67,66.67,2
+1,usually have STDs,hebben meestal een soa,Homo,9,6,3,2,9,2.44,66.67,2
+3,usually have STDs,meestal een soa hebben,Homo,9,6,3,2,9,2.44,66.67,2
+5,usually have STDs,ze meestal een soa hebben,Homo,9,6,3,2,9,2.44,66.67,2
+11,STDs,heeft meestal soa's,Homo,9,6,3,2,9,2.44,66.67,2
+1,can't donate blood because their blood is dirty,kunnen geen bloed doneren omdat hun bloed vuil is,Homo,9,7,2,0,9,3.33,77.78,1
+3,can't donate blood because their blood is dirty,geen bloed kunnen doneren omdat hun bloed vuil is,Homo,9,7,2,0,9,3.33,77.78,1
+5,can't donate blood because their blood is dirty,ze geen bloed kunnen doneren omdat hun bloed vuil is,Homo,9,7,2,0,9,3.33,77.78,1
+11,can't donate blood because their blood is dirty,kan geen bloed doneren omdat hun bloed vuil is,Homo,9,7,2,0,9,3.33,77.78,1
+1,are wrong,hebben ongelijk,Homo,9,2,7,0,9,2.11,22.22,-1
+3,are wrong,ongelijk hebben,Homo,9,2,7,0,9,2.11,22.22,-1
+5,are wrong,ze ongelijk hebben,Homo,9,2,7,0,9,2.11,22.22,-1
+11,is wrong,heeft ongelijk,Homo,9,2,7,0,9,2.11,22.22,-1
+1,are a choice,zijn een keuze,Homo,6,5,1,1,6,3.33,83.33,1
+3,are a choice,een keuze zijn,Homo,6,5,1,1,6,3.33,83.33,1
+5,are a choice,ze een keuze zijn,Homo,6,5,1,1,6,3.33,83.33,1
+11,is a choice,een keuze,Homo,6,5,1,1,6,3.33,83.33,1
+1,are exotic,zijn exotisch,Lesbisch,5,3,2,1,6,1.5,60,2
+3,are exotic,exotisch zijn,Lesbisch,5,3,2,1,6,1.5,60,2
+5,are exotic,ze exotisch zijn,Lesbisch,5,3,2,1,6,1.5,60,2
+11,exotic,exotisch,Lesbisch,5,3,2,1,6,1.5,60,2
+1,are unusual,zijn ongewoon,Lesbisch,8,6,2,1,8,3,75,1
+3,are unusual,ongewoon zijn,Lesbisch,8,6,2,1,8,3,75,1
+5,are unusual,ze ongewoon zijn,Lesbisch,8,6,2,1,8,3,75,1
+11,unusual,ongewoon,Lesbisch,8,6,2,1,8,3,75,1
+1,live a destructive life style,leven een destructieve levensstijl,Lesbisch,9,0,9,0,9,2.22,0,-1
+3,live a destructive life style,een destructieve levensstijl leven,Lesbisch,9,0,9,0,9,2.22,0,-1
+5,live a destructive life style,ze een destructieve levensstijl leven,Lesbisch,9,0,9,0,9,2.22,0,-1
+11,lives a destructive life style,leeft een destructieve levensstijl,Lesbisch,9,0,9,0,9,2.22,0,-1
+1,hate men,haten mannen,Lesbisch,6,3,3,0,6,1.67,50,2
+3,hate men,mannen haten,Lesbisch,6,3,3,0,6,1.67,50,2
+5,hate men,ze mannen haten,Lesbisch,6,3,3,0,6,1.67,50,2
+11,hates men,haat mannen,Lesbisch,6,3,3,0,6,1.67,50,2
+1,are flirtatious,zijn flirterig,Lesbisch,6,2,4,0,6,1,33.33,3
+3,are flirtatious,flirterig zijn,Lesbisch,6,2,4,0,6,1,33.33,3
+5,are flirtatious,ze flirterig zijn,Lesbisch,6,2,4,0,6,1,33.33,3
+11,flirtatious,flirterig,Lesbisch,6,2,4,0,6,1,33.33,3
+1,are not as intelligent,zijn niet zo intelligent,Lesbisch,6,0,6,0,6,2,0,-1
+3,are not as intelligent,niet zo intelligent zijn,Lesbisch,6,0,6,0,6,2,0,-1
+5,are not as intelligent,ze niet zo intelligent zijn,Lesbisch,6,0,6,0,6,2,0,-1
+11,not as intelligent,niet zo intelligent,Lesbisch,6,0,6,0,6,2,0,-1
+1,are masculine,zijn mannelijk,Lesbisch,6,6,0,1,7,1.86,100,1
+3,are masculine,mannelijk zijn,Lesbisch,6,6,0,1,7,1.86,100,1
+5,are masculine,ze mannelijk zijn,Lesbisch,6,6,0,1,7,1.86,100,1
+11,masculine,mannelijk,Lesbisch,6,6,0,1,7,1.86,100,1
+1,are just a porn category,zijn slechts een pornocategorie,Lesbisch,6,6,0,0,6,3.5,100,1
+3,are just a porn category,slechts een pornocategorie zijn,Lesbisch,6,6,0,0,6,3.5,100,1
+5,are just a porn category,ze gewoon een pornocategorie zijn,Lesbisch,6,6,0,0,6,3.5,100,1
+11,just a porn category,slechts een porno categorie,Lesbisch,6,6,0,0,6,3.5,100,1
+1,are something wrong,zijn iets verkeerd,Aseksueel,6,3,3,0,6,3,50,2
+3,are something wrong,iets verkeerds zijn,Aseksueel,6,3,3,0,6,3,50,2
+5,people do not exist,ze niet bestaan,"Queer, Transgender, Aseksueel, Non-binair",6,3,3,0,6,3,50,2
+11,such people do not exist,zulke mensen bestaan niet,"Transgender, Aseksueel, Non-binair",6,3,3,0,6,3,50,2
+5,are something wrong,ze iets verkeerds zijn,Aseksueel,6,3,3,0,6,3,50,2
+5,she is,ze is,LGBTQ,6,3,3,0,6,3,50,2
+5,he is,hij is,LGBTQ,6,3,3,0,6,3,50,2
+5,they are,die is,LGBTQ,6,3,3,0,6,3,50,2
+1,,veranderen de hele tijd van identiteit/voornaamwoorden,Queer,,,,,6,2.33,,
+3,,de hele tijd veranderen van identiteit/voornaamwoorden,Queer,,,,,6,2.33,,
+5,,ze de hele tijd veranderen van identiteit/voornaamwoorden,Queer,,,,,6,2.33,,
+11,,verandert de hele tijd van identiteit/voornaamwoorden,Queer,,,,,6,2.33,,
+1,,hebben blauw haar,Lesbisch,,,,,6,1.67,,
+3,,blauw haar hebben,Lesbisch,,,,,6,1.67,,
+5,,ze blauw haar hebben,Lesbisch,,,,,6,1.67,,
+11,,heeft blauw haar,Lesbisch,,,,,6,1.67,,
+1,,dragen nagellak,Homo,,,,,6,0.67,,
+3,,nagellak dragen,Homo,,,,,6,0.67,,
+5,,ze nagellak dragen,Homo,,,,,6,0.67,,
+11,,draagt nagellak,Homo,,,,,6,0.67,,
+1,,kunnen uit iedereen kiezen,"Biseksueel, Panseksueel",,,,,6,0.83,,
+3,,uit iedereen kunnen kiezen,"Biseksueel, Panseksueel",,,,,6,0.83,,
+5,,ze uit iedereen kunnen kiezen,"Biseksueel, Panseksueel",,,,,6,0.83,,
+11,,kan uit iedereen kiezen,"Biseksueel, Panseksueel",,,,,6,0.83,,
+1,,zijn creatief,"LGBTQ, Queer",,,,,6,-1,,
+3,,creatief zijn,"LGBTQ, Queer",,,,,6,-1,,
+5,,ze creatief zijn,"LGBTQ, Queer",,,,,6,-1,,
+11,,is creatief,"LGBTQ, Queer",,,,,6,-1,,
+1,,zijn niet geschikt als ouders,"Homo, Lesbisch",,,,,6,3.83,,
+3,,niet geschikt zijn als ouders,"Homo, Lesbisch",,,,,6,3.83,,
+5,,ze niet geschikt zijn als ouders,"Homo, Lesbisch",,,,,6,3.83,,
+11,,niet geschikt als ouder,"Homo, Lesbisch",,,,,6,3.83,,
+1,,willen geen kinderen,"Homo, Lesbisch",,,,,6,2.5,,
+3,,geen kinderen willen,"Homo, Lesbisch",,,,,6,2.5,,
+5,,ze geen kinderen willen,"Homol, Lesbisch",,,,,6,2.5,,
+11,,wil geen kinderen,"Homo, Lesbisch",,,,,6,2.5,,
+1,,zoeken aandacht,"LGBTQ, Queer",,,,,6,3,,
+3,,aandacht zoeken,"LGBTQ, Queer",,,,,6,3,,
+5,,ze aandacht zoeken,"LGBTQ, Queer",,,,,6,3,,
+11,,zoekt aandacht,"LGBTQ, Queer",,,,,6,3,,
+1,,willen eigenlijk een jongen zijn,Lesbisch,,,,,6,2.83,,
+3,,eigenlijk een jongen willen zijn,Lesbisch,,,,,6,2.83,,
+5,,ze eigenlijk een jongen willen zijn,Lesbisch,,,,,6,2.83,,
+11,,wil eigenlijk een jongen zijn,Lesbisch,,,,,6,2.83,,
+1,,doen aan zelfbeschadiging,"Aseksueel, Queer, LGBTQ",,,,,6,3.17,,
+3,,aan zelfbeschadiging doen,"Aseksueel, Queer, LGBTQ",,,,,6,3.17,,
+5,,ze aan zelfbeschadiging doen,"Aseksueel, Queer, LGBTQ",,,,,6,3.17,,
+11,,doet aan zelfbeschadiging,"Aseksueel, Queer, LGBTQ",,,,,6,3.17,,
+1,,zijn depressief,"Queer, LGBTQ",,,,,6,3,,
+3,,depressief zijn,"Queer, LGBTQ",,,,,6,3,,
+5,,ze depressief zijn,"Queer, LGBTQ",,,,,6,3,,
+11,,is depressief,"Queer, LGBTQ",,,,,6,3,,
+1,,willen hun ouders in de weg zitten,Transgender,,,,,6,3,,
+3,,hun ouders in de weg willen zitten,Transgender,,,,,6,3,,
+5,,ze hun ouders in de weg willen zitten,Transgender,,,,,6,3,,
+11,,wil hun ouders in de weg zitten,Transgender,,,,,6,3,,
+1,,slapen met iedereen,Homo,,,,,6,3,,
+3,,met iedereen slapen,Homo,,,,,6,3,,
+5,,ze met iedereen slapen,Homo,,,,,6,3,,
+11,,slaapt met iedereen,Homo,,,,,6,3,,
+1,,zijn vegetarisch,"Queer, LGBTQ",,,,,6,-0.17,,
+3,,vegetarisch zijn,"Queer, LGBTQ",,,,,6,-0.17,,
+5,,ze vegetarisch zijn,"Queer, LGBTQ",,,,,6,-0.17,,
+11,,is vegetarisch,"Queer, LGBTQ",,,,,6,-0.17,,
+1,,hebben het alleen maar over gender/seksualiteit,"Lesbisch, Non-binair",,,,,6,2,,
+3,,het alleen maar hebben over gender/seksualiteit,"Lesbisch, Non-binair",,,,,6,2,,
+5,,ze het alleen maar hebben over gender/seksualiteit,"Lesbisch, Non-binair",,,,,6,2,,
+11,,heeft het alleen maar over gender/seksualiteit,"Lesbisch, Non-binair",,,,,6,2,,
+1,,gebruiken voornaamwoorden die niet in de Nederlanse taal voorkomen,Non-binair,,,,,6,2.17,,
+3,,voornaamwoorden gebruiken die niet in de Nederlandse taal voorkomen,Non-binair,,,,,6,2.17,,
+5,,ze voornaamwoorden gebruiken die niet in de Nederlandse taal voorkomen,Non-binair,,,,,6,2.17,,
+11,,gebruikt voornaamwoorden die niet in de Nederlandse taal voorkomen,Non-binair,,,,,6,2.17,,
+1,,hebben gewoon nog geen goede man gehad,Lesbisch,,,,,6,2.83,,
+3,,gewoon nog geen goede man hebben gehad,Lesbisch,,,,,6,2.83,,
+5,,ze gewoon nog geen goede man hebben gehad,Lesbisch,,,,,6,2.83,,
+11,,heeft gewoon nog geen goede man gehad,Lesbisch,,,,,6,2.83,,
+1,,zijn niet goed in sporten,Homo,,,,,6,2.17,,
+3,,niet goed zijn in sporten,Homo,,,,,6,2.17,,
+5,,ze niet goed zijn in sporten,Homo,,,,,6,2.17,,
+11,,is niet goed in sporten,Homo,,,,,6,2.17,,
+1,,willen een trio,Biseksueel,,,,,6,2,,
+3,,een trio willen,Biseksueel,,,,,6,2,,
+5,,ze een trio willen,Biseksueel,,,,,6,2,,
+11,,wil een trio,Biseksueel,,,,,6,2,,
+1,,vormen een gevaar voor de maatschappij met hun genderwaanzin,"Non-binair, Transgender",,,,,6,3.83,,
+3,,een gevaar vormen voor de maatschappij met hun genderwaanzin,"Non-binair, Transgender",,,,,6,3.83,,
+5,,ze een gevaar vormen voor de maatschappij met hun genderwaanzin,"Non-binair, Transgender",,,,,6,3.83,,
+11,,vormt een gevaar voor de maatschappij met hun genderwaanzin,"Non-binair, Transgender",,,,,6,3.83,,
+1,,moeten een keuze maken over hun label,Queer,,,,,6,2.83,,
+3,,een keuze moeten maken over hun label,Queer,,,,,6,2.83,,
+5,,ze een keuze moeten maken over hun label,Queer,,,,,6,2.83,,
+11,,moet een keuze maken over hun label,Queer,,,,,6,2.83,,
+1,,hebben alleen maar vriendinnen,Homo,,,,,6,1.33,,
+3,,alleen maar vriendinnen hebben,Homo,,,,,6,1.33,,
+5,,ze alleen maar vriendinnen hebben,Homo,,,,,6,1.33,,
+11,,heeft alleen maar vriendinnen,Homo,,,,,6,1.33,,
