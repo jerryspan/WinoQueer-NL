@@ -6,23 +6,30 @@ A Dutch LGBTQ+ bias evaluation dataset for assessing how language models represe
 This repository contains datasets for the paper:  
 **WinoQueer-NL: Assessing Bias in Dutch Language Models toward LGBTQ+ Identities**
 
----
+## 📂 Repository Structure
 
-## 📑 Contents
+```text
+.
+├── data/
+│   ├── final_predicates.csv       # Predicate-level evaluation data
+│   ├── final_sentence_pairs.csv   # Sentence-pair evaluation data
+│   └── winoqueer_final.csv        # Final WinoQueer evaluation dataset
+├── evaluation/                    # Model evaluation scripts
+│   ├── metric_mlm.py
+│   └── metric_autoregressive.py
+└── README.md                   # this file
+```
+---
 
 ### 📁 Datasets
 
 Located in the `data/` folder.
 
-Includes 
-
-## Predicate Response Data
-
-This dataset contains response statistics for predicates evaluated across different identity groups. It includes the original English predicate, its altered Dutch translation, response distributions, harmfulness measurements, and the assigned tier.
+Includes following files:
 
 ### ```final_predicates.csv``` :
 
-Contains the following columns:
+This dataset contains response statistics for predicates evaluated across different identity groups. It includes the original English predicate, its altered Dutch translation, response distributions, harmfulness measurements, and the assigned tier. Contains the following columns:
 
 | Column | Description |
 |---|---|
@@ -78,6 +85,7 @@ The model evaluation scripts are located in the `evaluation/` folder.
 Two evaluation scripts are provided:
 
 🔹 `evaluation/metric_mlm.py` — evaluation of **Masked Language Models (MLMs)**
+
 🔹 `evaluation/metric_autoregressive.py` — evaluation of **autoregressive Large Language Models (LLMs)**
 
 #### Usage
@@ -113,4 +121,16 @@ You are free to use, modify, and distribute it without restriction.
 ### 📚 Reference
 If you use WinoQueer-NL, please cite our paper:
 
-(citation to be added)
+Jiska Beuk, Gerasimos Spanakis (2026). WinoQueer-NL: Assessing bias in Dutch language models toward LGBTQ+ identities. arXiv. https://arxiv.org/abs/2609.02651
+
+```bibtex
+@article{beuk2026winoqueernlassessingbiasdutch,
+  title={WinoQueer-NL: Assessing Bias in Dutch Language Models toward LGBTQ+ Identities},
+  author={Jiska Beuk and Gerasimos Spanakis},
+  year={2026},
+  eprint={2609.02651},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  url={https://arxiv.org/abs/2609.02651},
+}
+```
